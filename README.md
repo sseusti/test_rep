@@ -1,2 +1,2 @@
 HTML + CSS
-author: my name
+author: my own name
